@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf-ADONet-OKUL", "wf-ADONet-OKUL\wf-ADONet-OKUL.csproj", "{685A681B-4D1A-43FA-B8EA-DA2757B3FDB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685A681B-4D1A-43FA-B8EA-DA2757B3FDB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685A681B-4D1A-43FA-B8EA-DA2757B3FDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685A681B-4D1A-43FA-B8EA-DA2757B3FDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685A681B-4D1A-43FA-B8EA-DA2757B3FDB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2E11624-B535-42A1-A742-15FAE9E7E58C}
+	EndGlobalSection
+EndGlobal
